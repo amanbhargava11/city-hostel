@@ -99,10 +99,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-heading text-xl text-foreground mb-2">Phone</h3>
                     <a
-                      href="tel:+919302777888"
+                      href="tel:+919691630277"
                       className="font-paragraph text-base text-foreground/70 hover:text-primary transition-colors"
                     >
-                      +91 93027 77888
+                      +91 9691630277
                     </a>
                   </div>
                 </div>
