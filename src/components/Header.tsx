@@ -45,7 +45,7 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="https://wa.me/919302777888"
+              href="https://wa.me/919691630277"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -87,7 +87,7 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="https://wa.me/919302777888"
+              href="https://wa.me/919691630277"
               target="_blank"
               rel="noopener noreferrer"
               className="block mt-4"
